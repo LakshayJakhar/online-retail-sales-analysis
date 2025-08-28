@@ -8,6 +8,8 @@ Here is the Power BI dashboard built for Online Retail Analysis:
 
 
 
+PowerBI/Dashboard.png
+
 !\[Dashboard Preview](PowerBI/Dashboard.png)
 
 
