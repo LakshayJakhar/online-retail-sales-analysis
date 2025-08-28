@@ -7,7 +7,7 @@ Raw transactional data is messy — duplicates, missing values, and invalid entr
 ## 📊 Dashboard Preview
 Here is the Power BI dashboard built for Online Retail Analysis:
 
-![Dashboard Preview](powerbi/dashboard_screenshot.png)
+![Dashboard Preview](PowerBI/Dashboard.png)
 
 ## Data Preparation
 - Cleaned **Online Retail II dataset** in Jupyter Notebook:
