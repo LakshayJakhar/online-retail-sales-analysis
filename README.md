@@ -20,8 +20,8 @@ Here is the Power BI dashboard built for Online Retail Analysis:
 ## Dashboard Overview
 **KPIs:**
 - Total Revenue: 8.31M
-- Total Customers: 4.3K
-- Number of Orders: 47K
+- Total Customers: 4.312K
+- Number of Orders: 392K
 
 **Visuals:**
 - **Monthly Revenue Trend** (line chart, quarter/year slicer)
